@@ -1,8 +1,9 @@
 """ """
 import csv
 import json
+from typing import *
 
-data = {}
+data: Dict[str, List[Tuple[str, str]]] = dict()
 
 def dump_valgresultater():
 
@@ -32,7 +33,7 @@ def dump_valgresultater():
                 # So we just save the last two values, inside the
                 # List of data, for the current party.
                 if len(row) > 0:
-                    data[current_party].append(row[1:])
+                    data[current_party].append((row[1], int(row[2])))
 
             with open(filename[:-4]+'.json', 'w') as fp:
                 json.dump(data, fp)
