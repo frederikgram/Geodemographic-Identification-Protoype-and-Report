@@ -3,7 +3,7 @@ import csv
 import json
 from typing import *
 
-data: Dict[str, List[Tuple[str, str]]] = dict()
+data= dict()
 
 def dump_valgresultater():
 
