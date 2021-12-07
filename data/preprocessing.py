@@ -8,7 +8,7 @@ data: Dict[str, List[Tuple[str, str]]] = dict()
 def dump_valgresultater():
 
     # Since these two files are formatted exactly the same, we can reuse the code.
-    for filename in ["folketingsvalg.csv", "kommunalvalg.csv"]:
+    for filename in ["./sources/folketingsvalg.csv", "./sources/kommunalvalg.csv"]:
 
 
 
@@ -37,12 +37,12 @@ def dump_valgresultater():
                 if len(row) > 0:
                     data[current_party].append((row[1], int(row[2])))
 
-            with open(filename[:-4]+'.json', 'w') as fp:
+            with open("./preprocessed/"+filename[10:-4]+'.json', 'w') as fp:
                 json.dump(data, fp)
 
 def dump_gennemsnitsalder():
 
-    with open("gennemsnitsalder.csv", encoding='ISO-8859-1') as csvfile:
+    with open("./sources/gennemsnitsalder.csv", encoding='ISO-8859-1') as csvfile:
         csvreader = csv.reader(csvfile)
 
         # Skip header lines in csv file
@@ -54,12 +54,12 @@ def dump_gennemsnitsalder():
         for row in csvreader:
             data[row[1]] = row[2]
         
-        with open('gennemsnitsalder.json', 'w') as fp:
+        with open('./preprocessed/gennemsnitsalder.json', 'w') as fp:
             json.dump(data, fp)
 
 def dump_ratioejerlejere():
 
-    with open("ratioejerlejere.csv", encoding='ISO-8859-1') as csvfile:
+    with open("./sources/ratioejerlejere.csv", encoding='ISO-8859-1') as csvfile:
         csvreader = csv.reader(csvfile)
 
         # Skip header lines in csv file
@@ -72,12 +72,12 @@ def dump_ratioejerlejere():
         for row in csvreader:
             data[row[2]] = {"ejere":row[3], "lejere": row[4]}
         
-        with open('ratioejerlejere.json', 'w') as fp:
+        with open('./preprocessed/ratioejerlejere.json', 'w') as fp:
             json.dump(data, fp)
 
 def dump_disponibelindkomst():
 
-    with open("disponibelindkomst.csv", encoding='ISO-8859-1') as csvfile:
+    with open("./sources/disponibelindkomst.csv", encoding='ISO-8859-1') as csvfile:
         csvreader = csv.reader(csvfile)
 
         # Skip header lines in csv file
@@ -85,15 +85,14 @@ def dump_disponibelindkomst():
             next(csvreader)
 
         for row in csvreader:
-            print(row)
             data[row[4]] = row[5]
         
-        with open('disponibelindkomst.json', 'w') as fp:
+        with open('./preprocessed/disponibelindkomst.json', 'w') as fp:
             json.dump(data, fp)
 
 def dump_uddannelsesniveau():
 
-    with open("uddannelsesniveau.csv", encoding='ISO-8859-1') as csvfile:
+    with open("./sources/uddannelsesniveau.csv", encoding='ISO-8859-1') as csvfile:
         csvreader = csv.reader(csvfile)
 
         # Skip header lines in csv file
@@ -111,12 +110,12 @@ def dump_uddannelsesniveau():
                 "lange videregående uddannelser": row[6]
             }
         
-        with open('uddannelsesniveau.json', 'w') as fp:
+        with open('./preprocessed/uddannelsesniveau.json', 'w') as fp:
             json.dump(data, fp)
 
 def dump_koensfordeling():
 
-    with open("koensfordeling.csv", encoding='ISO-8859-1') as csvfile:
+    with open("./sources/koensfordeling.csv", encoding='ISO-8859-1') as csvfile:
         csvreader = csv.reader(csvfile)
 
         # Skip header lines in csv file
@@ -127,9 +126,14 @@ def dump_koensfordeling():
             row = row[3:]
             data[row[0]] = {"maend": row[1], "kvinder": row[2]}
         
-        with open('koensfordeling.json', 'w') as fp:
+        with open('./preprocessed/koensfordeling.json', 'w') as fp:
             json.dump(data, fp)
 
 
 if __name__ == "__main__":
+    dump_valgresultater()
+    dump_gennemsnitsalder()
+    dump_ratioejerlejere()
+    dump_disponibelindkomst()
+    dump_uddannelsesniveau()
     dump_koensfordeling()
