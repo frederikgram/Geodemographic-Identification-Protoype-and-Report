@@ -1,0 +1,418 @@
+{
+    "Region Hovedstaden": {
+        "maend": "916231",
+        "kvinder": "949857"
+    },
+    "Kï¿½benhavn": {
+        "maend": "317330",
+        "kvinder": "326283"
+    },
+    "Frederiksberg": {
+        "maend": "49130",
+        "kvinder": "54652"
+    },
+    "Dragï¿½r": {
+        "maend": "7149",
+        "kvinder": "7467"
+    },
+    "Tï¿½rnby": {
+        "maend": "21156",
+        "kvinder": "21508"
+    },
+    "Albertslund": {
+        "maend": "13581",
+        "kvinder": "13830"
+    },
+    "Ballerup": {
+        "maend": "24078",
+        "kvinder": "25181"
+    },
+    "Brï¿½ndby": {
+        "maend": "17428",
+        "kvinder": "18073"
+    },
+    "Gentofte": {
+        "maend": "35494",
+        "kvinder": "38776"
+    },
+    "Gladsaxe": {
+        "maend": "34346",
+        "kvinder": "34789"
+    },
+    "Glostrup": {
+        "maend": "11765",
+        "kvinder": "11778"
+    },
+    "Herlev": {
+        "maend": "14105",
+        "kvinder": "14763"
+    },
+    "Hvidovre": {
+        "maend": "26286",
+        "kvinder": "26991"
+    },
+    "Hï¿½je-Taastrup": {
+        "maend": "26455",
+        "kvinder": "26247"
+    },
+    "Ishï¿½j": {
+        "maend": "11543",
+        "kvinder": "11588"
+    },
+    "Lyngby-Taarbï¿½k": {
+        "maend": "28543",
+        "kvinder": "29291"
+    },
+    "Rï¿½dovre": {
+        "maend": "20217",
+        "kvinder": "21002"
+    },
+    "Vallensbï¿½k": {
+        "maend": "8270",
+        "kvinder": "8231"
+    },
+    "Allerï¿½d": {
+        "maend": "12694",
+        "kvinder": "13188"
+    },
+    "Egedal": {
+        "maend": "21957",
+        "kvinder": "22269"
+    },
+    "Fredensborg": {
+        "maend": "19934",
+        "kvinder": "21218"
+    },
+    "Frederikssund": {
+        "maend": "22633",
+        "kvinder": "23209"
+    },
+    "Furesï¿½": {
+        "maend": "20180",
+        "kvinder": "21180"
+    },
+    "Gribskov": {
+        "maend": "20573",
+        "kvinder": "20655"
+    },
+    "Halsnï¿½s": {
+        "maend": "15664",
+        "kvinder": "15801"
+    },
+    "Helsingï¿½r": {
+        "maend": "30503",
+        "kvinder": "32594"
+    },
+    "Hillerï¿½d": {
+        "maend": "25888",
+        "kvinder": "26818"
+    },
+    "Hï¿½rsholm": {
+        "maend": "11643",
+        "kvinder": "13108"
+    },
+    "Rudersdal": {
+        "maend": "28038",
+        "kvinder": "29311"
+    },
+    "Bornholm": {
+        "maend": "19597",
+        "kvinder": "20013"
+    },
+    "Christiansï¿½": {
+        "maend": "51",
+        "kvinder": "43"
+    },
+    "Region Sjï¿½lland": {
+        "maend": "419997",
+        "kvinder": "422684"
+    },
+    "Greve": {
+        "maend": "25057",
+        "kvinder": "25644"
+    },
+    "Kï¿½ge": {
+        "maend": "30652",
+        "kvinder": "31054"
+    },
+    "Lejre": {
+        "maend": "14232",
+        "kvinder": "14398"
+    },
+    "Roskilde": {
+        "maend": "43717",
+        "kvinder": "45491"
+    },
+    "Solrï¿½d": {
+        "maend": "11628",
+        "kvinder": "11969"
+    },
+    "Faxe": {
+        "maend": "18926",
+        "kvinder": "18136"
+    },
+    "Guldborgsund": {
+        "maend": "30094",
+        "kvinder": "30223"
+    },
+    "Holbï¿½k": {
+        "maend": "36105",
+        "kvinder": "36557"
+    },
+    "Kalundborg": {
+        "maend": "24345",
+        "kvinder": "24085"
+    },
+    "Lolland": {
+        "maend": "20316",
+        "kvinder": "19925"
+    },
+    "Nï¿½stved": {
+        "maend": "41549",
+        "kvinder": "42101"
+    },
+    "Odsherred": {
+        "maend": "16534",
+        "kvinder": "16426"
+    },
+    "Ringsted": {
+        "maend": "17743",
+        "kvinder": "17390"
+    },
+    "Slagelse": {
+        "maend": "39589",
+        "kvinder": "40055"
+    },
+    "Sorï¿½": {
+        "maend": "15007",
+        "kvinder": "14963"
+    },
+    "Stevns": {
+        "maend": "11835",
+        "kvinder": "11558"
+    },
+    "Vordingborg": {
+        "maend": "22668",
+        "kvinder": "22709"
+    },
+    "Region Syddanmark": {
+        "maend": "613892",
+        "kvinder": "612906"
+    },
+    "Assens": {
+        "maend": "20554",
+        "kvinder": "20307"
+    },
+    "Faaborg-Midtfyn": {
+        "maend": "25966",
+        "kvinder": "25822"
+    },
+    "Kerteminde": {
+        "maend": "11847",
+        "kvinder": "12159"
+    },
+    "Langeland": {
+        "maend": "6263",
+        "kvinder": "6057"
+    },
+    "Middelfart": {
+        "maend": "19806",
+        "kvinder": "19714"
+    },
+    "Nordfyns": {
+        "maend": "14994",
+        "kvinder": "14670"
+    },
+    "Nyborg": {
+        "maend": "15841",
+        "kvinder": "16214"
+    },
+    "Odense": {
+        "maend": "101782",
+        "kvinder": "104123"
+    },
+    "Svendborg": {
+        "maend": "29402",
+        "kvinder": "29694"
+    },
+    "ï¿½rï¿½": {
+        "maend": "3013",
+        "kvinder": "2999"
+    },
+    "Billund": {
+        "maend": "13449",
+        "kvinder": "13132"
+    },
+    "Esbjerg": {
+        "maend": "57897",
+        "kvinder": "57573"
+    },
+    "Fanï¿½": {
+        "maend": "1669",
+        "kvinder": "1767"
+    },
+    "Fredericia": {
+        "maend": "25807",
+        "kvinder": "25729"
+    },
+    "Haderslev": {
+        "maend": "27885",
+        "kvinder": "27466"
+    },
+    "Kolding": {
+        "maend": "46697",
+        "kvinder": "46621"
+    },
+    "Sï¿½nderborg": {
+        "maend": "36880",
+        "kvinder": "36805"
+    },
+    "Tï¿½nder": {
+        "maend": "18618",
+        "kvinder": "18268"
+    },
+    "Varde": {
+        "maend": "25189",
+        "kvinder": "24471"
+    },
+    "Vejen": {
+        "maend": "21759",
+        "kvinder": "20930"
+    },
+    "Vejle": {
+        "maend": "59303",
+        "kvinder": "59061"
+    },
+    "Aabenraa": {
+        "maend": "29271",
+        "kvinder": "29324"
+    },
+    "Region Midtjylland": {
+        "maend": "670270",
+        "kvinder": "669851"
+    },
+    "Favrskov": {
+        "maend": "24569",
+        "kvinder": "24177"
+    },
+    "Hedensted": {
+        "maend": "24066",
+        "kvinder": "22981"
+    },
+    "Horsens": {
+        "maend": "47292",
+        "kvinder": "46613"
+    },
+    "Norddjurs": {
+        "maend": "18918",
+        "kvinder": "18104"
+    },
+    "Odder": {
+        "maend": "11426",
+        "kvinder": "11780"
+    },
+    "Randers": {
+        "maend": "49392",
+        "kvinder": "49384"
+    },
+    "Samsï¿½": {
+        "maend": "1850",
+        "kvinder": "1857"
+    },
+    "Silkeborg": {
+        "maend": "48277",
+        "kvinder": "48502"
+    },
+    "Skanderborg": {
+        "maend": "31795",
+        "kvinder": "32182"
+    },
+    "Syddjurs": {
+        "maend": "21885",
+        "kvinder": "21744"
+    },
+    "Aarhus": {
+        "maend": "174596",
+        "kvinder": "180862"
+    },
+    "Herning": {
+        "maend": "45005",
+        "kvinder": "44191"
+    },
+    "Holstebro": {
+        "maend": "29195",
+        "kvinder": "29318"
+    },
+    "Ikast-Brande": {
+        "maend": "21404",
+        "kvinder": "20474"
+    },
+    "Lemvig": {
+        "maend": "9879",
+        "kvinder": "9490"
+    },
+    "Ringkï¿½bing-Skjern": {
+        "maend": "28592",
+        "kvinder": "27603"
+    },
+    "Skive": {
+        "maend": "22942",
+        "kvinder": "22155"
+    },
+    "Struer": {
+        "maend": "10477",
+        "kvinder": "10318"
+    },
+    "Viborg": {
+        "maend": "48710",
+        "kvinder": "48116"
+    },
+    "Region Nordjylland": {
+        "maend": "298820",
+        "kvinder": "292904"
+    },
+    "Brï¿½nderslev": {
+        "maend": "18324",
+        "kvinder": "17863"
+    },
+    "Frederikshavn": {
+        "maend": "29713",
+        "kvinder": "29170"
+    },
+    "Hjï¿½rring": {
+        "maend": "31993",
+        "kvinder": "31868"
+    },
+    "Jammerbugt": {
+        "maend": "19279",
+        "kvinder": "18893"
+    },
+    "Lï¿½sï¿½": {
+        "maend": "890",
+        "kvinder": "905"
+    },
+    "Mariagerfjord": {
+        "maend": "21190",
+        "kvinder": "20372"
+    },
+    "Morsï¿½": {
+        "maend": "10188",
+        "kvinder": "9867"
+    },
+    "Rebild": {
+        "maend": "15561",
+        "kvinder": "15077"
+    },
+    "Thisted": {
+        "maend": "21762",
+        "kvinder": "21353"
+    },
+    "Vesthimmerlands": {
+        "maend": "18431",
+        "kvinder": "17911"
+    },
+    "Aalborg": {
+        "maend": "111489",
+        "kvinder": "109625"
+    }
+}

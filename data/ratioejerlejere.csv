@@ -1,0 +1,120 @@
+"Boliger efter beboertype, tid, omr�de og udlejningsforhold"
+
+" "," "," ","Beboet af ejer","Beboet af lejer"
+"Boliger med CPR tilmeldte personer (beboede boliger)"
+" ","2021"
+" "," ","Region Hovedstaden",327169,531766
+" "," ","Landsdel Byen K�benhavn",85380,303648
+" "," ","K�benhavn",59283,251580
+" "," ","Frederiksberg",12262,41180
+" "," ","Drag�r",4352,1664
+" "," ","T�rnby",9483,9224
+" "," ","Landsdel K�benhavns omegn",104393,142881
+" "," ","Albertslund",4032,8238
+" "," ","Ballerup",7908,14590
+" "," ","Br�ndby",4625,10922
+" "," ","Gentofte",18661,14274
+" "," ","Gladsaxe",12299,19531
+" "," ","Glostrup",3806,7191
+" "," ","Herlev",4295,8989
+" "," ","Hvidovre",9341,14565
+" "," ","H�je-Taastrup",11681,10138
+" "," ","Ish�j",3788,5798
+" "," ","Lyngby-Taarb�k",12180,14987
+" "," ","R�dovre",7326,11573
+" "," ","Vallensb�k",4451,2085
+" "," ","Landsdel Nordsj�lland",124361,78141
+" "," ","Aller�d",7401,3152
+" "," ","Egedal",12844,4491
+" "," ","Fredensborg",10041,7831
+" "," ","Frederikssund",12613,7419
+" "," ","Fures�",10301,6825
+" "," ","Gribskov",12856,4461
+" "," ","Halsn�s",9033,5150
+" "," ","Helsing�r",14520,14661
+" "," ","Hiller�d",12485,9844
+" "," ","H�rsholm",6764,4680
+" "," ","Rudersdal",15503,9627
+" "," ","Landsdel Bornholm",13035,7096
+" "," ","Bornholm",13035,7096
+" "," ","Christians�",0,0
+" "," ","Region Sj�lland",221352,166426
+" "," ","Landsdel �stsj�lland",63814,45111
+" "," ","Greve",13156,8055
+" "," ","K�ge",14098,12653
+" "," ","Lejre",8644,2704
+" "," ","Roskilde",21257,18871
+" "," ","Solr�d",6659,2828
+" "," ","Landsdel Vest- og Sydsj�lland",157538,121315
+" "," ","Faxe",10099,6433
+" "," ","Guldborgsund",17450,12927
+" "," ","Holb�k",17794,14826
+" "," ","Kalundborg",13614,9589
+" "," ","Lolland",12320,8900
+" "," ","N�stved",21604,17746
+" "," ","Odsherred",10296,5571
+" "," ","Ringsted",8291,7103
+" "," ","Slagelse",18163,20031
+" "," ","Sor�",8026,5591
+" "," ","Stevns",6936,3186
+" "," ","Vordingborg",12945,9412
+" "," ","Region Syddanmark",304298,273619
+" "," ","Landsdel Fyn",122342,116414
+" "," ","Assens",11928,6967
+" "," ","Faaborg-Midtfyn",15145,8528
+" "," ","Kerteminde",6393,4852
+" "," ","Langeland",3946,2589
+" "," ","Middelfart",10781,7144
+" "," ","Nordfyns",8781,4564
+" "," ","Nyborg",8313,6946
+" "," ","Odense",39603,60854
+" "," ","Svendborg",15236,12859
+" "," ","�r�",2216,1111
+" "," ","Landsdel Sydjylland",181956,157205
+" "," ","Billund",7276,4887
+" "," ","Esbjerg",27402,28349
+" "," ","Fan�",1142,548
+" "," ","Fredericia",11472,13297
+" "," ","Haderslev",14290,12111
+" "," ","Kolding",22057,20923
+" "," ","S�nderborg",18253,17498
+" "," ","T�nder",10563,7134
+" "," ","Varde",14416,7977
+" "," ","Vejen",11805,7256
+" "," ","Vejle",27874,24967
+" "," ","Aabenraa",15406,12258
+" "," ","Region Midtjylland",321647,292203
+" "," ","Landsdel �stjylland",204698,211534
+" "," ","Favrskov",13860,6464
+" "," ","Hedensted",13708,6533
+" "," ","Horsens",21733,20362
+" "," ","Norddjurs",10804,7305
+" "," ","Odder",6326,3879
+" "," ","Randers",24138,23099
+" "," ","Sams�",1275,672
+" "," ","Silkeborg",23524,18901
+" "," ","Skanderborg",17331,8627
+" "," ","Syddjurs",12987,6377
+" "," ","Aarhus",59012,109315
+" "," ","Landsdel Vestjylland",116949,80669
+" "," ","Herning",22765,18071
+" "," ","Holstebro",15869,11099
+" "," ","Ikast-Brande",11162,7211
+" "," ","Lemvig",6240,3138
+" "," ","Ringk�bing-Skjern",16349,9056
+" "," ","Skive",13052,9071
+" "," ","Struer",6142,3859
+" "," ","Viborg",25370,19164
+" "," ","Region Nordjylland",153648,131501
+" "," ","Landsdel Nordjylland",153648,131501
+" "," ","Br�nderslev",10390,6157
+" "," ","Frederikshavn",16522,13094
+" "," ","Hj�rring",18510,12264
+" "," ","Jammerbugt",12099,5337
+" "," ","L�s�",713,252
+" "," ","Mariagerfjord",11866,7910
+" "," ","Mors�",6303,3588
+" "," ","Rebild",9101,3852
+" "," ","Thisted",13193,7193
+" "," ","Vesthimmerlands",10702,6529
+" "," ","Aalborg",44249,65325
