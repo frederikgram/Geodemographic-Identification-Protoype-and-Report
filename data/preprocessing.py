@@ -3,13 +3,12 @@ import csv
 import json
 from typing import *
 
-data= dict()
-
 def dump_valgresultater():
 
     # Since these two files are formatted exactly the same, we can reuse the code.
     for filename in ["./sources/folketingsvalg.csv", "./sources/kommunalvalg.csv"]:
 
+        data = {}
 
 
         with open(filename, encoding='ISO-8859-1') as csvfile:
@@ -42,6 +41,7 @@ def dump_valgresultater():
 
 def dump_gennemsnitsalder():
 
+    data = {}
     with open("./sources/gennemsnitsalder.csv", encoding='ISO-8859-1') as csvfile:
         csvreader = csv.reader(csvfile)
 
@@ -59,6 +59,7 @@ def dump_gennemsnitsalder():
 
 def dump_ratioejerlejere():
 
+    data = {}
     with open("./sources/ratioejerlejere.csv", encoding='ISO-8859-1') as csvfile:
         csvreader = csv.reader(csvfile)
 
@@ -77,6 +78,7 @@ def dump_ratioejerlejere():
 
 def dump_disponibelindkomst():
 
+    data = {}
     with open("./sources/disponibelindkomst.csv", encoding='ISO-8859-1') as csvfile:
         csvreader = csv.reader(csvfile)
 
@@ -92,6 +94,7 @@ def dump_disponibelindkomst():
 
 def dump_uddannelsesniveau():
 
+    data = {}
     with open("./sources/uddannelsesniveau.csv", encoding='ISO-8859-1') as csvfile:
         csvreader = csv.reader(csvfile)
 
@@ -115,6 +118,7 @@ def dump_uddannelsesniveau():
 
 def dump_koensfordeling():
 
+    data = {}
     with open("./sources/koensfordeling.csv", encoding='ISO-8859-1') as csvfile:
         csvreader = csv.reader(csvfile)
 
