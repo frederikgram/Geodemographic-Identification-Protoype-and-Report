@@ -1,5 +1,5 @@
 {
-    "Kï¿½benhavn": {
+    "København": {
         "ingen uddannelse": "1261",
         "grundskole": "78669",
         "gymnasiel uddannelse": "82162",
@@ -15,7 +15,7 @@
         "bachelor uddannelse": "5057",
         "lange videregående uddannelser": "20610"
     },
-    "Dragï¿½r": {
+    "Dragør": {
         "ingen uddannelse": "24",
         "grundskole": "1856",
         "gymnasiel uddannelse": "1063",
@@ -23,7 +23,7 @@
         "bachelor uddannelse": "176",
         "lange videregående uddannelser": "1311"
     },
-    "Tï¿½rnby": {
+    "Tårnby": {
         "ingen uddannelse": "88",
         "grundskole": "7624",
         "gymnasiel uddannelse": "2869",
@@ -47,7 +47,7 @@
         "bachelor uddannelse": "459",
         "lange videregående uddannelser": "3268"
     },
-    "Brï¿½ndby": {
+    "Brøndby": {
         "ingen uddannelse": "157",
         "grundskole": "7809",
         "gymnasiel uddannelse": "2510",
@@ -95,7 +95,7 @@
         "bachelor uddannelse": "795",
         "lange videregående uddannelser": "3542"
     },
-    "Hï¿½je-Taastrup": {
+    "Høje-Taastrup": {
         "ingen uddannelse": "222",
         "grundskole": "10166",
         "gymnasiel uddannelse": "3899",
@@ -103,7 +103,7 @@
         "bachelor uddannelse": "497",
         "lange videregående uddannelser": "2816"
     },
-    "Ishï¿½j": {
+    "Ishøj": {
         "ingen uddannelse": "139",
         "grundskole": "5368",
         "gymnasiel uddannelse": "1755",
@@ -111,7 +111,7 @@
         "bachelor uddannelse": "216",
         "lange videregående uddannelser": "1002"
     },
-    "Lyngby-Taarbï¿½k": {
+    "Lyngby-Taarbæk": {
         "ingen uddannelse": "72",
         "grundskole": "6448",
         "gymnasiel uddannelse": "5093",
@@ -119,7 +119,7 @@
         "bachelor uddannelse": "1789",
         "lange videregående uddannelser": "9219"
     },
-    "Rï¿½dovre": {
+    "Rødovre": {
         "ingen uddannelse": "100",
         "grundskole": "7001",
         "gymnasiel uddannelse": "2940",
@@ -127,7 +127,7 @@
         "bachelor uddannelse": "536",
         "lange videregående uddannelser": "2960"
     },
-    "Vallensbï¿½k": {
+    "Vallensbæk": {
         "ingen uddannelse": "34",
         "grundskole": "2367",
         "gymnasiel uddannelse": "1258",
@@ -135,7 +135,7 @@
         "bachelor uddannelse": "201",
         "lange videregående uddannelser": "1168"
     },
-    "Allerï¿½d": {
+    "Allerød": {
         "ingen uddannelse": "50",
         "grundskole": "3218",
         "gymnasiel uddannelse": "1638",
@@ -167,7 +167,7 @@
         "bachelor uddannelse": "302",
         "lange videregående uddannelser": "1875"
     },
-    "Furesï¿½": {
+    "Furesø": {
         "ingen uddannelse": "103",
         "grundskole": "5374",
         "gymnasiel uddannelse": "2552",
@@ -183,7 +183,7 @@
         "bachelor uddannelse": "311",
         "lange videregående uddannelser": "1766"
     },
-    "Halsnï¿½s": {
+    "Halsnæs": {
         "ingen uddannelse": "41",
         "grundskole": "5979",
         "gymnasiel uddannelse": "1609",
@@ -191,7 +191,7 @@
         "bachelor uddannelse": "177",
         "lange videregående uddannelser": "983"
     },
-    "Helsingï¿½r": {
+    "Helsingør": {
         "ingen uddannelse": "133",
         "grundskole": "11047",
         "gymnasiel uddannelse": "4332",
@@ -199,7 +199,7 @@
         "bachelor uddannelse": "696",
         "lange videregående uddannelser": "4093"
     },
-    "Hillerï¿½d": {
+    "Hillerød": {
         "ingen uddannelse": "109",
         "grundskole": "7789",
         "gymnasiel uddannelse": "3687",
@@ -207,7 +207,7 @@
         "bachelor uddannelse": "519",
         "lange videregående uddannelser": "4087"
     },
-    "Hï¿½rsholm": {
+    "Hørsholm": {
         "ingen uddannelse": "34",
         "grundskole": "2862",
         "gymnasiel uddannelse": "1977",
@@ -231,7 +231,7 @@
         "bachelor uddannelse": "252",
         "lange videregående uddannelser": "1174"
     },
-    "Christiansï¿½": {
+    "Christiansø": {
         "ingen uddannelse": "0",
         "grundskole": "12",
         "gymnasiel uddannelse": "1",
@@ -247,7 +247,7 @@
         "bachelor uddannelse": "458",
         "lange videregående uddannelser": "2694"
     },
-    "Kï¿½ge": {
+    "Køge": {
         "ingen uddannelse": "188",
         "grundskole": "11330",
         "gymnasiel uddannelse": "3980",
@@ -271,7 +271,7 @@
         "bachelor uddannelse": "1295",
         "lange videregående uddannelser": "7660"
     },
-    "Solrï¿½d": {
+    "Solrød": {
         "ingen uddannelse": "51",
         "grundskole": "3487",
         "gymnasiel uddannelse": "1587",
@@ -295,7 +295,7 @@
         "bachelor uddannelse": "252",
         "lange videregående uddannelser": "1503"
     },
-    "Holbï¿½k": {
+    "Holbæk": {
         "ingen uddannelse": "185",
         "grundskole": "14155",
         "gymnasiel uddannelse": "4033",
@@ -319,7 +319,7 @@
         "bachelor uddannelse": "125",
         "lange videregående uddannelser": "611"
     },
-    "Nï¿½stved": {
+    "Næstved": {
         "ingen uddannelse": "134",
         "grundskole": "16372",
         "gymnasiel uddannelse": "4854",
@@ -351,7 +351,7 @@
         "bachelor uddannelse": "586",
         "lange videregående uddannelser": "2230"
     },
-    "Sorï¿½": {
+    "Sorø": {
         "ingen uddannelse": "73",
         "grundskole": "5898",
         "gymnasiel uddannelse": "1343",
@@ -447,7 +447,7 @@
         "bachelor uddannelse": "462",
         "lange videregående uddannelser": "2328"
     },
-    "ï¿½rï¿½": {
+    "Ærø": {
         "ingen uddannelse": "10",
         "grundskole": "899",
         "gymnasiel uddannelse": "241",
@@ -471,7 +471,7 @@
         "bachelor uddannelse": "905",
         "lange videregående uddannelser": "4239"
     },
-    "Fanï¿½": {
+    "Fanø": {
         "ingen uddannelse": "4",
         "grundskole": "433",
         "gymnasiel uddannelse": "150",
@@ -503,7 +503,7 @@
         "bachelor uddannelse": "1121",
         "lange videregående uddannelser": "4883"
     },
-    "Sï¿½nderborg": {
+    "Sønderborg": {
         "ingen uddannelse": "166",
         "grundskole": "13614",
         "gymnasiel uddannelse": "3858",
@@ -511,7 +511,7 @@
         "bachelor uddannelse": "601",
         "lange videregående uddannelser": "3025"
     },
-    "Tï¿½nder": {
+    "Tønder": {
         "ingen uddannelse": "66",
         "grundskole": "7732",
         "gymnasiel uddannelse": "1646",
@@ -599,7 +599,7 @@
         "bachelor uddannelse": "667",
         "lange videregående uddannelser": "3413"
     },
-    "Samsï¿½": {
+    "Samsø": {
         "ingen uddannelse": "5",
         "grundskole": "557",
         "gymnasiel uddannelse": "145",
@@ -671,7 +671,7 @@
         "bachelor uddannelse": "76",
         "lange videregående uddannelser": "452"
     },
-    "Ringkï¿½bing-Skjern": {
+    "Ringkøbing-Skjern": {
         "ingen uddannelse": "140",
         "grundskole": "11191",
         "gymnasiel uddannelse": "2632",
@@ -703,7 +703,7 @@
         "bachelor uddannelse": "507",
         "lange videregående uddannelser": "4198"
     },
-    "Brï¿½nderslev": {
+    "Brønderslev": {
         "ingen uddannelse": "85",
         "grundskole": "6836",
         "gymnasiel uddannelse": "1537",
@@ -719,7 +719,7 @@
         "bachelor uddannelse": "245",
         "lange videregående uddannelser": "1254"
     },
-    "Hjï¿½rring": {
+    "Hjørring": {
         "ingen uddannelse": "139",
         "grundskole": "12765",
         "gymnasiel uddannelse": "3224",
@@ -735,7 +735,7 @@
         "bachelor uddannelse": "211",
         "lange videregående uddannelser": "1121"
     },
-    "Lï¿½sï¿½": {
+    "Læsø": {
         "ingen uddannelse": "3",
         "grundskole": "340",
         "gymnasiel uddannelse": "58",
@@ -751,7 +751,7 @@
         "bachelor uddannelse": "231",
         "lange videregående uddannelser": "1278"
     },
-    "Morsï¿½": {
+    "Morsø": {
         "ingen uddannelse": "47",
         "grundskole": "4563",
         "gymnasiel uddannelse": "845",

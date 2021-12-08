@@ -4,7 +4,12 @@ import json
 import os
 import os, sys, codecs
 
-def load_json_data() -> Dict:
+def load_json_data_as_dict() -> Dict:
+    data = json.load(open("./models/data.json", 'r'))
+    print(data)
+
+
+def combine_preprocessed_json_data() -> Dict:
     """ """
 
     data = {}
@@ -51,5 +56,5 @@ def load_json_data() -> Dict:
             data[key] = {}
         data[key]["uddannelsesniveau"] = value
 
-    json.dump(data, open("test.json", 'w'))
+    json.dump(data, open("./models/data.json", 'w'))
 

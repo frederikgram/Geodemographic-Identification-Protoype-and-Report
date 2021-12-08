@@ -1,5 +1,5 @@
 {
-    "Kï¿½benhavn": {
+    "København": {
         "maend": "317330",
         "kvinder": "326283"
     },
@@ -7,11 +7,11 @@
         "maend": "49130",
         "kvinder": "54652"
     },
-    "Dragï¿½r": {
+    "Dragør": {
         "maend": "7149",
         "kvinder": "7467"
     },
-    "Tï¿½rnby": {
+    "Tårnby": {
         "maend": "21156",
         "kvinder": "21508"
     },
@@ -23,7 +23,7 @@
         "maend": "24078",
         "kvinder": "25181"
     },
-    "Brï¿½ndby": {
+    "Brøndby": {
         "maend": "17428",
         "kvinder": "18073"
     },
@@ -47,27 +47,27 @@
         "maend": "26286",
         "kvinder": "26991"
     },
-    "Hï¿½je-Taastrup": {
+    "Høje-Taastrup": {
         "maend": "26455",
         "kvinder": "26247"
     },
-    "Ishï¿½j": {
+    "Ishøj": {
         "maend": "11543",
         "kvinder": "11588"
     },
-    "Lyngby-Taarbï¿½k": {
+    "Lyngby-Taarbæk": {
         "maend": "28543",
         "kvinder": "29291"
     },
-    "Rï¿½dovre": {
+    "Rødovre": {
         "maend": "20217",
         "kvinder": "21002"
     },
-    "Vallensbï¿½k": {
+    "Vallensbæk": {
         "maend": "8270",
         "kvinder": "8231"
     },
-    "Allerï¿½d": {
+    "Allerød": {
         "maend": "12694",
         "kvinder": "13188"
     },
@@ -83,7 +83,7 @@
         "maend": "22633",
         "kvinder": "23209"
     },
-    "Furesï¿½": {
+    "Furesø": {
         "maend": "20180",
         "kvinder": "21180"
     },
@@ -91,19 +91,19 @@
         "maend": "20573",
         "kvinder": "20655"
     },
-    "Halsnï¿½s": {
+    "Halsnæs": {
         "maend": "15664",
         "kvinder": "15801"
     },
-    "Helsingï¿½r": {
+    "Helsingør": {
         "maend": "30503",
         "kvinder": "32594"
     },
-    "Hillerï¿½d": {
+    "Hillerød": {
         "maend": "25888",
         "kvinder": "26818"
     },
-    "Hï¿½rsholm": {
+    "Hørsholm": {
         "maend": "11643",
         "kvinder": "13108"
     },
@@ -115,7 +115,7 @@
         "maend": "19597",
         "kvinder": "20013"
     },
-    "Christiansï¿½": {
+    "Christiansø": {
         "maend": "51",
         "kvinder": "43"
     },
@@ -123,7 +123,7 @@
         "maend": "25057",
         "kvinder": "25644"
     },
-    "Kï¿½ge": {
+    "Køge": {
         "maend": "30652",
         "kvinder": "31054"
     },
@@ -135,7 +135,7 @@
         "maend": "43717",
         "kvinder": "45491"
     },
-    "Solrï¿½d": {
+    "Solrød": {
         "maend": "11628",
         "kvinder": "11969"
     },
@@ -147,7 +147,7 @@
         "maend": "30094",
         "kvinder": "30223"
     },
-    "Holbï¿½k": {
+    "Holbæk": {
         "maend": "36105",
         "kvinder": "36557"
     },
@@ -159,7 +159,7 @@
         "maend": "20316",
         "kvinder": "19925"
     },
-    "Nï¿½stved": {
+    "Næstved": {
         "maend": "41549",
         "kvinder": "42101"
     },
@@ -175,7 +175,7 @@
         "maend": "39589",
         "kvinder": "40055"
     },
-    "Sorï¿½": {
+    "Sorø": {
         "maend": "15007",
         "kvinder": "14963"
     },
@@ -235,7 +235,7 @@
         "maend": "57897",
         "kvinder": "57573"
     },
-    "Fanï¿½": {
+    "Fanø": {
         "maend": "1669",
         "kvinder": "1767"
     },
@@ -251,11 +251,11 @@
         "maend": "46697",
         "kvinder": "46621"
     },
-    "Sï¿½nderborg": {
+    "Sønderborg": {
         "maend": "36880",
         "kvinder": "36805"
     },
-    "Tï¿½nder": {
+    "Tønder": {
         "maend": "18618",
         "kvinder": "18268"
     },
@@ -299,7 +299,7 @@
         "maend": "49392",
         "kvinder": "49384"
     },
-    "Samsï¿½": {
+    "Samsø": {
         "maend": "1850",
         "kvinder": "1857"
     },
@@ -335,7 +335,7 @@
         "maend": "9879",
         "kvinder": "9490"
     },
-    "Ringkï¿½bing-Skjern": {
+    "Ringkøbing-Skjern": {
         "maend": "28592",
         "kvinder": "27603"
     },
@@ -351,7 +351,7 @@
         "maend": "48710",
         "kvinder": "48116"
     },
-    "Brï¿½nderslev": {
+    "Brønderslev": {
         "maend": "18324",
         "kvinder": "17863"
     },
@@ -359,7 +359,7 @@
         "maend": "29713",
         "kvinder": "29170"
     },
-    "Hjï¿½rring": {
+    "Hjørring": {
         "maend": "31993",
         "kvinder": "31868"
     },
@@ -367,7 +367,7 @@
         "maend": "19279",
         "kvinder": "18893"
     },
-    "Lï¿½sï¿½": {
+    "Læsø": {
         "maend": "890",
         "kvinder": "905"
     },
@@ -375,7 +375,7 @@
         "maend": "21190",
         "kvinder": "20372"
     },
-    "Morsï¿½": {
+    "Morsø": {
         "maend": "10188",
         "kvinder": "9867"
     },
