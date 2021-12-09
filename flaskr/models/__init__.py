@@ -41,7 +41,7 @@ def combine_preprocessed_json_data() -> Dict:
             if res[0] not in data:
                 data[res[0]] = {}
             # data[kommune][party] = tal
-            data[res[0]][key] = res[1] 
+            data[res[0]][key] = str(res[1])
 
 
     ratioejerelejere = json.load(open("../data/preprocessed/ratioejerlejere.json"))

@@ -13,4 +13,4 @@ from .views import *
 
 from .models import *
 
-load_json_data_as_dict()
+combine_preprocessed_json_data()
