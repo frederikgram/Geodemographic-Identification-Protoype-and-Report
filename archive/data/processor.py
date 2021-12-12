@@ -49,15 +49,9 @@ def extend_dataset_with_ratios(dataset: Dict[str, Any]) -> Dict[str, Any]:
             # one could calculate ratios on
             if not isinstance(values, dict):
 
-                try:
-                    # Knowing our source data, we take this opportunity
-                    # to convert numeric values to their true datatype
-                    new_dataset[county][field] = float(dataset[county][field])
-                except:
-                    v = dataset[county][field].split(',')
-                    print(v)
-                    tuple_value = (int(v[0]), int(v[1]))
-                    new_dataset[county][field] = tuple_value
+                # Knowing our source data, we take this opportinity
+                # to convert numeric values to their true datatype
+                new_dataset[county][field] = float(dataset[county][field])
                 continue
 
             total = sum([int(values[k]) for k in values.keys()])
@@ -67,8 +61,8 @@ def extend_dataset_with_ratios(dataset: Dict[str, Any]) -> Dict[str, Any]:
 
                 value = int(value)
 
-                # The percentage of the key 'total' will always be
-                # 100% so there is no reason to extend the field
+                # The percentage of the total will always be 100%
+                # so there is no reason to extend the field
                 if key == "total":
                     continue
 
@@ -77,7 +71,7 @@ def extend_dataset_with_ratios(dataset: Dict[str, Any]) -> Dict[str, Any]:
                 # based on the total of all absolute values.
                 new_dataset[county][field][key] = {
                     "absolute": value,
-                    "percent":  value / total * 100 if total != 0 else 0
+                    "percent": value / total*100 if total != 0 else 0
                 }
 
     return new_dataset
@@ -91,13 +85,12 @@ if __name__ == "__main__":
     gennemsnitsalder = json.load(open("gennemsnitsalder.json", 'r'))
     ratioejerelejere = json.load(open("ratioejerelejere.json", 'r'))
     uddannelsesniveau = json.load(open("uddannelsesniveau.json", 'r'))
-    kommunekoordinater = json.load(open("kommunekoordinater.json", 'r'))
 
     # Neglect 'Folketingsvalg' as it requires more specialized processing
-    files = [disponibelindkomst, koensfordeling, gennemsnitsalder, ratioejerelejere, uddannelsesniveau, kommunekoordinater]
+    files = [disponibelindkomst, koensfordeling, gennemsnitsalder, ratioejerelejere, uddannelsesniveau]
 
     # Stringify names of datasets to be used as keys in the merged dataset
-    names = ["disponibelindkomst", "koensfordeling", "gennemsnitsalder", "ratioejerelejere", "uddannelsesniveau", "coordinates"]
+    names = ["disponibelindkomst", "koensfordeling", "gennemsnitsalder", "ratioejerelejere", "uddannelsesniveau"]
 
     # Collect, Combine, and Extend datasets
     data = merge_datasets()
