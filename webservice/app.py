@@ -149,7 +149,7 @@ def get_possible_criterias():
     searchable criterias
     """
 
-    criterias: List[str] = list()
+    criterias: List[str] = ["gennemsnitsalder", "disponibelindkomst"]
 
     def inner(reference):
         if type(reference) != dict:
@@ -159,6 +159,8 @@ def get_possible_criterias():
             if type(reference[key]) == dict:
                 criterias.append(key)
                 inner(reference[key])
+            
+            
 
     reference = data[list(data.keys())[0]]
     for key in reference.keys():
@@ -214,6 +216,9 @@ def hardcoded_criteria_filler(crit):
     ]:
         return ["folketingsvalg", crit]
 
+    if crit in ["gennemsnitsalder", "disponibelindkomst"]:
+        return crit
+
 
 # No caching at all for API endpoints.
 @app.after_request
@@ -229,6 +234,8 @@ def add_header(response):
 
 @app.route("/", methods=["GET", "POST"])
 def index():
+
+    print(possible_criterias)
 
     criterias = []
     for crit in possible_criterias:
