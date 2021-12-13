@@ -1,0 +1,794 @@
+{
+    "København": {
+        "ingen uddannelse": "1261",
+        "grundskole": "78669",
+        "gymnasiel uddannelse": "82162",
+        "erhvervsfaglig uddannelse": "68103",
+        "bachelor uddannelse": "34808",
+        "lange videregående uddannelser": "114530"
+    },
+    "Frederiksberg": {
+        "ingen uddannelse": "169",
+        "grundskole": "10499",
+        "gymnasiel uddannelse": "11360",
+        "erhvervsfaglig uddannelse": "9601",
+        "bachelor uddannelse": "5057",
+        "lange videregående uddannelser": "20610"
+    },
+    "Dragør": {
+        "ingen uddannelse": "24",
+        "grundskole": "1856",
+        "gymnasiel uddannelse": "1063",
+        "erhvervsfaglig uddannelse": "2440",
+        "bachelor uddannelse": "176",
+        "lange videregående uddannelser": "1311"
+    },
+    "Tårnby": {
+        "ingen uddannelse": "88",
+        "grundskole": "7624",
+        "gymnasiel uddannelse": "2869",
+        "erhvervsfaglig uddannelse": "9827",
+        "bachelor uddannelse": "414",
+        "lange videregående uddannelser": "2326"
+    },
+    "Albertslund": {
+        "ingen uddannelse": "127",
+        "grundskole": "5907",
+        "gymnasiel uddannelse": "2339",
+        "erhvervsfaglig uddannelse": "4770",
+        "bachelor uddannelse": "386",
+        "lange videregående uddannelser": "1327"
+    },
+    "Ballerup": {
+        "ingen uddannelse": "101",
+        "grundskole": "8620",
+        "gymnasiel uddannelse": "3340",
+        "erhvervsfaglig uddannelse": "9476",
+        "bachelor uddannelse": "459",
+        "lange videregående uddannelser": "3268"
+    },
+    "Brøndby": {
+        "ingen uddannelse": "157",
+        "grundskole": "7809",
+        "gymnasiel uddannelse": "2510",
+        "erhvervsfaglig uddannelse": "7119",
+        "bachelor uddannelse": "336",
+        "lange videregående uddannelser": "1530"
+    },
+    "Gentofte": {
+        "ingen uddannelse": "102",
+        "grundskole": "8061",
+        "gymnasiel uddannelse": "6719",
+        "erhvervsfaglig uddannelse": "6400",
+        "bachelor uddannelse": "1802",
+        "lange videregående uddannelser": "13972"
+    },
+    "Gladsaxe": {
+        "ingen uddannelse": "150",
+        "grundskole": "10305",
+        "gymnasiel uddannelse": "5532",
+        "erhvervsfaglig uddannelse": "10930",
+        "bachelor uddannelse": "1308",
+        "lange videregående uddannelser": "7661"
+    },
+    "Glostrup": {
+        "ingen uddannelse": "66",
+        "grundskole": "4097",
+        "gymnasiel uddannelse": "1740",
+        "erhvervsfaglig uddannelse": "5016",
+        "bachelor uddannelse": "268",
+        "lange videregående uddannelser": "1424"
+    },
+    "Herlev": {
+        "ingen uddannelse": "47",
+        "grundskole": "4966",
+        "gymnasiel uddannelse": "2124",
+        "erhvervsfaglig uddannelse": "5813",
+        "bachelor uddannelse": "312",
+        "lange videregående uddannelser": "1871"
+    },
+    "Hvidovre": {
+        "ingen uddannelse": "115",
+        "grundskole": "9559",
+        "gymnasiel uddannelse": "4045",
+        "erhvervsfaglig uddannelse": "10808",
+        "bachelor uddannelse": "795",
+        "lange videregående uddannelser": "3542"
+    },
+    "Høje-Taastrup": {
+        "ingen uddannelse": "222",
+        "grundskole": "10166",
+        "gymnasiel uddannelse": "3899",
+        "erhvervsfaglig uddannelse": "10290",
+        "bachelor uddannelse": "497",
+        "lange videregående uddannelser": "2816"
+    },
+    "Ishøj": {
+        "ingen uddannelse": "139",
+        "grundskole": "5368",
+        "gymnasiel uddannelse": "1755",
+        "erhvervsfaglig uddannelse": "4505",
+        "bachelor uddannelse": "216",
+        "lange videregående uddannelser": "1002"
+    },
+    "Lyngby-Taarbæk": {
+        "ingen uddannelse": "72",
+        "grundskole": "6448",
+        "gymnasiel uddannelse": "5093",
+        "erhvervsfaglig uddannelse": "6029",
+        "bachelor uddannelse": "1789",
+        "lange videregående uddannelser": "9219"
+    },
+    "Rødovre": {
+        "ingen uddannelse": "100",
+        "grundskole": "7001",
+        "gymnasiel uddannelse": "2940",
+        "erhvervsfaglig uddannelse": "8171",
+        "bachelor uddannelse": "536",
+        "lange videregående uddannelser": "2960"
+    },
+    "Vallensbæk": {
+        "ingen uddannelse": "34",
+        "grundskole": "2367",
+        "gymnasiel uddannelse": "1258",
+        "erhvervsfaglig uddannelse": "3068",
+        "bachelor uddannelse": "201",
+        "lange videregående uddannelser": "1168"
+    },
+    "Allerød": {
+        "ingen uddannelse": "50",
+        "grundskole": "3218",
+        "gymnasiel uddannelse": "1638",
+        "erhvervsfaglig uddannelse": "3773",
+        "bachelor uddannelse": "359",
+        "lange videregående uddannelser": "3149"
+    },
+    "Egedal": {
+        "ingen uddannelse": "77",
+        "grundskole": "6396",
+        "gymnasiel uddannelse": "2534",
+        "erhvervsfaglig uddannelse": "9407",
+        "bachelor uddannelse": "428",
+        "lange videregående uddannelser": "2902"
+    },
+    "Fredensborg": {
+        "ingen uddannelse": "100",
+        "grundskole": "6309",
+        "gymnasiel uddannelse": "2860",
+        "erhvervsfaglig uddannelse": "6521",
+        "bachelor uddannelse": "639",
+        "lange videregående uddannelser": "3815"
+    },
+    "Frederikssund": {
+        "ingen uddannelse": "82",
+        "grundskole": "7893",
+        "gymnasiel uddannelse": "2341",
+        "erhvervsfaglig uddannelse": "10974",
+        "bachelor uddannelse": "302",
+        "lange videregående uddannelser": "1875"
+    },
+    "Furesø": {
+        "ingen uddannelse": "103",
+        "grundskole": "5374",
+        "gymnasiel uddannelse": "2552",
+        "erhvervsfaglig uddannelse": "5092",
+        "bachelor uddannelse": "505",
+        "lange videregående uddannelser": "5376"
+    },
+    "Gribskov": {
+        "ingen uddannelse": "67",
+        "grundskole": "7083",
+        "gymnasiel uddannelse": "2253",
+        "erhvervsfaglig uddannelse": "9369",
+        "bachelor uddannelse": "311",
+        "lange videregående uddannelser": "1766"
+    },
+    "Halsnæs": {
+        "ingen uddannelse": "41",
+        "grundskole": "5979",
+        "gymnasiel uddannelse": "1609",
+        "erhvervsfaglig uddannelse": "7812",
+        "bachelor uddannelse": "177",
+        "lange videregående uddannelser": "983"
+    },
+    "Helsingør": {
+        "ingen uddannelse": "133",
+        "grundskole": "11047",
+        "gymnasiel uddannelse": "4332",
+        "erhvervsfaglig uddannelse": "11485",
+        "bachelor uddannelse": "696",
+        "lange videregående uddannelser": "4093"
+    },
+    "Hillerød": {
+        "ingen uddannelse": "109",
+        "grundskole": "7789",
+        "gymnasiel uddannelse": "3687",
+        "erhvervsfaglig uddannelse": "9623",
+        "bachelor uddannelse": "519",
+        "lange videregående uddannelser": "4087"
+    },
+    "Hørsholm": {
+        "ingen uddannelse": "34",
+        "grundskole": "2862",
+        "gymnasiel uddannelse": "1977",
+        "erhvervsfaglig uddannelse": "2859",
+        "bachelor uddannelse": "380",
+        "lange videregående uddannelser": "3356"
+    },
+    "Rudersdal": {
+        "ingen uddannelse": "96",
+        "grundskole": "6583",
+        "gymnasiel uddannelse": "4528",
+        "erhvervsfaglig uddannelse": "5528",
+        "bachelor uddannelse": "1231",
+        "lange videregående uddannelser": "9369"
+    },
+    "Bornholm": {
+        "ingen uddannelse": "65",
+        "grundskole": "7671",
+        "gymnasiel uddannelse": "1600",
+        "erhvervsfaglig uddannelse": "9877",
+        "bachelor uddannelse": "252",
+        "lange videregående uddannelser": "1174"
+    },
+    "Christiansø": {
+        "ingen uddannelse": "0",
+        "grundskole": "12",
+        "gymnasiel uddannelse": "1",
+        "erhvervsfaglig uddannelse": "17",
+        "bachelor uddannelse": "2",
+        "lange videregående uddannelser": "5"
+    },
+    "Greve": {
+        "ingen uddannelse": "107",
+        "grundskole": "8064",
+        "gymnasiel uddannelse": "3522",
+        "erhvervsfaglig uddannelse": "11311",
+        "bachelor uddannelse": "458",
+        "lange videregående uddannelser": "2694"
+    },
+    "Køge": {
+        "ingen uddannelse": "188",
+        "grundskole": "11330",
+        "gymnasiel uddannelse": "3980",
+        "erhvervsfaglig uddannelse": "14117",
+        "bachelor uddannelse": "511",
+        "lange videregående uddannelser": "2792"
+    },
+    "Lejre": {
+        "ingen uddannelse": "59",
+        "grundskole": "4397",
+        "gymnasiel uddannelse": "1442",
+        "erhvervsfaglig uddannelse": "6229",
+        "bachelor uddannelse": "236",
+        "lange videregående uddannelser": "1820"
+    },
+    "Roskilde": {
+        "ingen uddannelse": "192",
+        "grundskole": "13457",
+        "gymnasiel uddannelse": "6944",
+        "erhvervsfaglig uddannelse": "16349",
+        "bachelor uddannelse": "1295",
+        "lange videregående uddannelser": "7660"
+    },
+    "Solrød": {
+        "ingen uddannelse": "51",
+        "grundskole": "3487",
+        "gymnasiel uddannelse": "1587",
+        "erhvervsfaglig uddannelse": "5131",
+        "bachelor uddannelse": "211",
+        "lange videregående uddannelser": "1421"
+    },
+    "Faxe": {
+        "ingen uddannelse": "85",
+        "grundskole": "7494",
+        "gymnasiel uddannelse": "1725",
+        "erhvervsfaglig uddannelse": "9707",
+        "bachelor uddannelse": "212",
+        "lange videregående uddannelser": "1026"
+    },
+    "Guldborgsund": {
+        "ingen uddannelse": "163",
+        "grundskole": "12449",
+        "gymnasiel uddannelse": "2730",
+        "erhvervsfaglig uddannelse": "15047",
+        "bachelor uddannelse": "252",
+        "lange videregående uddannelser": "1503"
+    },
+    "Holbæk": {
+        "ingen uddannelse": "185",
+        "grundskole": "14155",
+        "gymnasiel uddannelse": "4033",
+        "erhvervsfaglig uddannelse": "16816",
+        "bachelor uddannelse": "474",
+        "lange videregående uddannelser": "2703"
+    },
+    "Kalundborg": {
+        "ingen uddannelse": "99",
+        "grundskole": "10514",
+        "gymnasiel uddannelse": "1948",
+        "erhvervsfaglig uddannelse": "12705",
+        "bachelor uddannelse": "173",
+        "lange videregående uddannelser": "1161"
+    },
+    "Lolland": {
+        "ingen uddannelse": "73",
+        "grundskole": "9586",
+        "gymnasiel uddannelse": "1552",
+        "erhvervsfaglig uddannelse": "10452",
+        "bachelor uddannelse": "125",
+        "lange videregående uddannelser": "611"
+    },
+    "Næstved": {
+        "ingen uddannelse": "134",
+        "grundskole": "16372",
+        "gymnasiel uddannelse": "4854",
+        "erhvervsfaglig uddannelse": "20024",
+        "bachelor uddannelse": "459",
+        "lange videregående uddannelser": "2484"
+    },
+    "Odsherred": {
+        "ingen uddannelse": "72",
+        "grundskole": "7010",
+        "gymnasiel uddannelse": "1385",
+        "erhvervsfaglig uddannelse": "8182",
+        "bachelor uddannelse": "155",
+        "lange videregående uddannelser": "767"
+    },
+    "Ringsted": {
+        "ingen uddannelse": "98",
+        "grundskole": "6742",
+        "gymnasiel uddannelse": "2125",
+        "erhvervsfaglig uddannelse": "8550",
+        "bachelor uddannelse": "316",
+        "lange videregående uddannelser": "1445"
+    },
+    "Slagelse": {
+        "ingen uddannelse": "246",
+        "grundskole": "16690",
+        "gymnasiel uddannelse": "4864",
+        "erhvervsfaglig uddannelse": "18586",
+        "bachelor uddannelse": "586",
+        "lange videregående uddannelser": "2230"
+    },
+    "Sorø": {
+        "ingen uddannelse": "73",
+        "grundskole": "5898",
+        "gymnasiel uddannelse": "1343",
+        "erhvervsfaglig uddannelse": "7164",
+        "bachelor uddannelse": "232",
+        "lange videregående uddannelser": "1550"
+    },
+    "Stevns": {
+        "ingen uddannelse": "41",
+        "grundskole": "4324",
+        "gymnasiel uddannelse": "1072",
+        "erhvervsfaglig uddannelse": "5885",
+        "bachelor uddannelse": "119",
+        "lange videregående uddannelser": "771"
+    },
+    "Vordingborg": {
+        "ingen uddannelse": "90",
+        "grundskole": "9359",
+        "gymnasiel uddannelse": "2261",
+        "erhvervsfaglig uddannelse": "10378",
+        "bachelor uddannelse": "278",
+        "lange videregående uddannelser": "1398"
+    },
+    "Assens": {
+        "ingen uddannelse": "65",
+        "grundskole": "8298",
+        "gymnasiel uddannelse": "1642",
+        "erhvervsfaglig uddannelse": "10106",
+        "bachelor uddannelse": "247",
+        "lange videregående uddannelser": "1256"
+    },
+    "Faaborg-Midtfyn": {
+        "ingen uddannelse": "99",
+        "grundskole": "9653",
+        "gymnasiel uddannelse": "2166",
+        "erhvervsfaglig uddannelse": "12880",
+        "bachelor uddannelse": "315",
+        "lange videregående uddannelser": "1594"
+    },
+    "Kerteminde": {
+        "ingen uddannelse": "66",
+        "grundskole": "4565",
+        "gymnasiel uddannelse": "1009",
+        "erhvervsfaglig uddannelse": "5838",
+        "bachelor uddannelse": "155",
+        "lange videregående uddannelser": "755"
+    },
+    "Langeland": {
+        "ingen uddannelse": "21",
+        "grundskole": "2571",
+        "gymnasiel uddannelse": "429",
+        "erhvervsfaglig uddannelse": "3240",
+        "bachelor uddannelse": "55",
+        "lange videregående uddannelser": "256"
+    },
+    "Middelfart": {
+        "ingen uddannelse": "76",
+        "grundskole": "7040",
+        "gymnasiel uddannelse": "1807",
+        "erhvervsfaglig uddannelse": "9104",
+        "bachelor uddannelse": "282",
+        "lange videregående uddannelser": "1856"
+    },
+    "Nordfyns": {
+        "ingen uddannelse": "53",
+        "grundskole": "5916",
+        "gymnasiel uddannelse": "1192",
+        "erhvervsfaglig uddannelse": "7867",
+        "bachelor uddannelse": "139",
+        "lange videregående uddannelser": "819"
+    },
+    "Nyborg": {
+        "ingen uddannelse": "71",
+        "grundskole": "6406",
+        "gymnasiel uddannelse": "1553",
+        "erhvervsfaglig uddannelse": "7366",
+        "bachelor uddannelse": "206",
+        "lange videregående uddannelser": "1117"
+    },
+    "Odense": {
+        "ingen uddannelse": "537",
+        "grundskole": "32582",
+        "gymnasiel uddannelse": "23790",
+        "erhvervsfaglig uddannelse": "34220",
+        "bachelor uddannelse": "6268",
+        "lange videregående uddannelser": "15675"
+    },
+    "Svendborg": {
+        "ingen uddannelse": "92",
+        "grundskole": "10237",
+        "gymnasiel uddannelse": "3692",
+        "erhvervsfaglig uddannelse": "12566",
+        "bachelor uddannelse": "462",
+        "lange videregående uddannelser": "2328"
+    },
+    "Ærø": {
+        "ingen uddannelse": "10",
+        "grundskole": "899",
+        "gymnasiel uddannelse": "241",
+        "erhvervsfaglig uddannelse": "1484",
+        "bachelor uddannelse": "38",
+        "lange videregående uddannelser": "195"
+    },
+    "Billund": {
+        "ingen uddannelse": "71",
+        "grundskole": "5551",
+        "gymnasiel uddannelse": "1374",
+        "erhvervsfaglig uddannelse": "6642",
+        "bachelor uddannelse": "115",
+        "lange videregående uddannelser": "780"
+    },
+    "Esbjerg": {
+        "ingen uddannelse": "266",
+        "grundskole": "21307",
+        "gymnasiel uddannelse": "7306",
+        "erhvervsfaglig uddannelse": "26193",
+        "bachelor uddannelse": "905",
+        "lange videregående uddannelser": "4239"
+    },
+    "Fanø": {
+        "ingen uddannelse": "4",
+        "grundskole": "433",
+        "gymnasiel uddannelse": "150",
+        "erhvervsfaglig uddannelse": "615",
+        "bachelor uddannelse": "32",
+        "lange videregående uddannelser": "176"
+    },
+    "Fredericia": {
+        "ingen uddannelse": "139",
+        "grundskole": "10221",
+        "gymnasiel uddannelse": "3003",
+        "erhvervsfaglig uddannelse": "11820",
+        "bachelor uddannelse": "376",
+        "lange videregående uddannelser": "1932"
+    },
+    "Haderslev": {
+        "ingen uddannelse": "133",
+        "grundskole": "11369",
+        "gymnasiel uddannelse": "3128",
+        "erhvervsfaglig uddannelse": "13248",
+        "bachelor uddannelse": "281",
+        "lange videregående uddannelser": "1590"
+    },
+    "Kolding": {
+        "ingen uddannelse": "227",
+        "grundskole": "16930",
+        "gymnasiel uddannelse": "6043",
+        "erhvervsfaglig uddannelse": "20054",
+        "bachelor uddannelse": "1121",
+        "lange videregående uddannelser": "4883"
+    },
+    "Sønderborg": {
+        "ingen uddannelse": "166",
+        "grundskole": "13614",
+        "gymnasiel uddannelse": "3858",
+        "erhvervsfaglig uddannelse": "16627",
+        "bachelor uddannelse": "601",
+        "lange videregående uddannelser": "3025"
+    },
+    "Tønder": {
+        "ingen uddannelse": "66",
+        "grundskole": "7732",
+        "gymnasiel uddannelse": "1646",
+        "erhvervsfaglig uddannelse": "9820",
+        "bachelor uddannelse": "129",
+        "lange videregående uddannelser": "843"
+    },
+    "Varde": {
+        "ingen uddannelse": "118",
+        "grundskole": "9593",
+        "gymnasiel uddannelse": "2263",
+        "erhvervsfaglig uddannelse": "13025",
+        "bachelor uddannelse": "206",
+        "lange videregående uddannelser": "1169"
+    },
+    "Vejen": {
+        "ingen uddannelse": "150",
+        "grundskole": "8837",
+        "gymnasiel uddannelse": "1913",
+        "erhvervsfaglig uddannelse": "11307",
+        "bachelor uddannelse": "214",
+        "lange videregående uddannelser": "1120"
+    },
+    "Vejle": {
+        "ingen uddannelse": "306",
+        "grundskole": "21213",
+        "gymnasiel uddannelse": "7202",
+        "erhvervsfaglig uddannelse": "24253",
+        "bachelor uddannelse": "926",
+        "lange videregående uddannelser": "6589"
+    },
+    "Aabenraa": {
+        "ingen uddannelse": "136",
+        "grundskole": "11816",
+        "gymnasiel uddannelse": "2707",
+        "erhvervsfaglig uddannelse": "14941",
+        "bachelor uddannelse": "285",
+        "lange videregående uddannelser": "1806"
+    },
+    "Favrskov": {
+        "ingen uddannelse": "89",
+        "grundskole": "7957",
+        "gymnasiel uddannelse": "2256",
+        "erhvervsfaglig uddannelse": "10788",
+        "bachelor uddannelse": "375",
+        "lange videregående uddannelser": "2901"
+    },
+    "Hedensted": {
+        "ingen uddannelse": "119",
+        "grundskole": "9415",
+        "gymnasiel uddannelse": "2068",
+        "erhvervsfaglig uddannelse": "12218",
+        "bachelor uddannelse": "207",
+        "lange videregående uddannelser": "1149"
+    },
+    "Horsens": {
+        "ingen uddannelse": "235",
+        "grundskole": "16898",
+        "gymnasiel uddannelse": "6062",
+        "erhvervsfaglig uddannelse": "20093",
+        "bachelor uddannelse": "606",
+        "lange videregående uddannelser": "3889"
+    },
+    "Norddjurs": {
+        "ingen uddannelse": "73",
+        "grundskole": "7835",
+        "gymnasiel uddannelse": "1804",
+        "erhvervsfaglig uddannelse": "10296",
+        "bachelor uddannelse": "147",
+        "lange videregående uddannelser": "723"
+    },
+    "Odder": {
+        "ingen uddannelse": "52",
+        "grundskole": "3729",
+        "gymnasiel uddannelse": "1166",
+        "erhvervsfaglig uddannelse": "5184",
+        "bachelor uddannelse": "201",
+        "lange videregående uddannelser": "1233"
+    },
+    "Randers": {
+        "ingen uddannelse": "181",
+        "grundskole": "18484",
+        "gymnasiel uddannelse": "6128",
+        "erhvervsfaglig uddannelse": "23962",
+        "bachelor uddannelse": "667",
+        "lange videregående uddannelser": "3413"
+    },
+    "Samsø": {
+        "ingen uddannelse": "5",
+        "grundskole": "557",
+        "gymnasiel uddannelse": "145",
+        "erhvervsfaglig uddannelse": "888",
+        "bachelor uddannelse": "41",
+        "lange videregående uddannelser": "131"
+    },
+    "Silkeborg": {
+        "ingen uddannelse": "180",
+        "grundskole": "15894",
+        "gymnasiel uddannelse": "5188",
+        "erhvervsfaglig uddannelse": "20791",
+        "bachelor uddannelse": "770",
+        "lange videregående uddannelser": "5382"
+    },
+    "Skanderborg": {
+        "ingen uddannelse": "119",
+        "grundskole": "9572",
+        "gymnasiel uddannelse": "3134",
+        "erhvervsfaglig uddannelse": "12258",
+        "bachelor uddannelse": "573",
+        "lange videregående uddannelser": "5314"
+    },
+    "Syddjurs": {
+        "ingen uddannelse": "57",
+        "grundskole": "7163",
+        "gymnasiel uddannelse": "2143",
+        "erhvervsfaglig uddannelse": "10047",
+        "bachelor uddannelse": "394",
+        "lange videregående uddannelser": "2042"
+    },
+    "Aarhus": {
+        "ingen uddannelse": "790",
+        "grundskole": "45341",
+        "gymnasiel uddannelse": "50333",
+        "erhvervsfaglig uddannelse": "46162",
+        "bachelor uddannelse": "13760",
+        "lange videregående uddannelser": "41852"
+    },
+    "Herning": {
+        "ingen uddannelse": "224",
+        "grundskole": "16818",
+        "gymnasiel uddannelse": "5834",
+        "erhvervsfaglig uddannelse": "20844",
+        "bachelor uddannelse": "726",
+        "lange videregående uddannelser": "2844"
+    },
+    "Holstebro": {
+        "ingen uddannelse": "178",
+        "grundskole": "10698",
+        "gymnasiel uddannelse": "3650",
+        "erhvervsfaglig uddannelse": "13538",
+        "bachelor uddannelse": "316",
+        "lange videregående uddannelser": "1905"
+    },
+    "Ikast-Brande": {
+        "ingen uddannelse": "88",
+        "grundskole": "8597",
+        "gymnasiel uddannelse": "2007",
+        "erhvervsfaglig uddannelse": "10309",
+        "bachelor uddannelse": "226",
+        "lange videregående uddannelser": "1261"
+    },
+    "Lemvig": {
+        "ingen uddannelse": "50",
+        "grundskole": "3925",
+        "gymnasiel uddannelse": "941",
+        "erhvervsfaglig uddannelse": "5101",
+        "bachelor uddannelse": "76",
+        "lange videregående uddannelser": "452"
+    },
+    "Ringkøbing-Skjern": {
+        "ingen uddannelse": "140",
+        "grundskole": "11191",
+        "gymnasiel uddannelse": "2632",
+        "erhvervsfaglig uddannelse": "14607",
+        "bachelor uddannelse": "229",
+        "lange videregående uddannelser": "1429"
+    },
+    "Skive": {
+        "ingen uddannelse": "126",
+        "grundskole": "9188",
+        "gymnasiel uddannelse": "2361",
+        "erhvervsfaglig uddannelse": "11519",
+        "bachelor uddannelse": "155",
+        "lange videregående uddannelser": "1071"
+    },
+    "Struer": {
+        "ingen uddannelse": "71",
+        "grundskole": "4556",
+        "gymnasiel uddannelse": "922",
+        "erhvervsfaglig uddannelse": "4881",
+        "bachelor uddannelse": "93",
+        "lange videregående uddannelser": "533"
+    },
+    "Viborg": {
+        "ingen uddannelse": "217",
+        "grundskole": "17652",
+        "gymnasiel uddannelse": "5364",
+        "erhvervsfaglig uddannelse": "22552",
+        "bachelor uddannelse": "507",
+        "lange videregående uddannelser": "4198"
+    },
+    "Brønderslev": {
+        "ingen uddannelse": "85",
+        "grundskole": "6836",
+        "gymnasiel uddannelse": "1537",
+        "erhvervsfaglig uddannelse": "9164",
+        "bachelor uddannelse": "179",
+        "lange videregående uddannelser": "1164"
+    },
+    "Frederikshavn": {
+        "ingen uddannelse": "173",
+        "grundskole": "11558",
+        "gymnasiel uddannelse": "2463",
+        "erhvervsfaglig uddannelse": "15941",
+        "bachelor uddannelse": "245",
+        "lange videregående uddannelser": "1254"
+    },
+    "Hjørring": {
+        "ingen uddannelse": "139",
+        "grundskole": "12765",
+        "gymnasiel uddannelse": "3224",
+        "erhvervsfaglig uddannelse": "16103",
+        "bachelor uddannelse": "276",
+        "lange videregående uddannelser": "1661"
+    },
+    "Jammerbugt": {
+        "ingen uddannelse": "96",
+        "grundskole": "7822",
+        "gymnasiel uddannelse": "1558",
+        "erhvervsfaglig uddannelse": "9718",
+        "bachelor uddannelse": "211",
+        "lange videregående uddannelser": "1121"
+    },
+    "Læsø": {
+        "ingen uddannelse": "3",
+        "grundskole": "340",
+        "gymnasiel uddannelse": "58",
+        "erhvervsfaglig uddannelse": "437",
+        "bachelor uddannelse": "8",
+        "lange videregående uddannelser": "30"
+    },
+    "Mariagerfjord": {
+        "ingen uddannelse": "86",
+        "grundskole": "8363",
+        "gymnasiel uddannelse": "1940",
+        "erhvervsfaglig uddannelse": "10571",
+        "bachelor uddannelse": "231",
+        "lange videregående uddannelser": "1278"
+    },
+    "Morsø": {
+        "ingen uddannelse": "47",
+        "grundskole": "4563",
+        "gymnasiel uddannelse": "845",
+        "erhvervsfaglig uddannelse": "5156",
+        "bachelor uddannelse": "71",
+        "lange videregående uddannelser": "362"
+    },
+    "Rebild": {
+        "ingen uddannelse": "57",
+        "grundskole": "5078",
+        "gymnasiel uddannelse": "1147",
+        "erhvervsfaglig uddannelse": "7165",
+        "bachelor uddannelse": "232",
+        "lange videregående uddannelser": "1921"
+    },
+    "Thisted": {
+        "ingen uddannelse": "95",
+        "grundskole": "9076",
+        "gymnasiel uddannelse": "1961",
+        "erhvervsfaglig uddannelse": "11156",
+        "bachelor uddannelse": "166",
+        "lange videregående uddannelser": "1172"
+    },
+    "Vesthimmerlands": {
+        "ingen uddannelse": "117",
+        "grundskole": "7911",
+        "gymnasiel uddannelse": "1394",
+        "erhvervsfaglig uddannelse": "9472",
+        "bachelor uddannelse": "101",
+        "lange videregående uddannelser": "829"
+    },
+    "Aalborg": {
+        "ingen uddannelse": "338",
+        "grundskole": "33097",
+        "gymnasiel uddannelse": "24115",
+        "erhvervsfaglig uddannelse": "40731",
+        "bachelor uddannelse": "6357",
+        "lange videregående uddannelser": "18072"
+    }
+}
