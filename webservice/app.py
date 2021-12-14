@@ -218,7 +218,7 @@ def hardcoded_criteria_filler(crit):
 
     if crit in ["gennemsnitsalder", "disponibelindkomst"]:
         return crit
-
+        
 
 # No caching at all for API endpoints.
 @app.after_request
@@ -239,6 +239,10 @@ def index():
 
     criterias = []
     for crit in possible_criterias:
+
+        # If a criteria is enabled on the
+        # web-service, setup a dictionary
+        # of the proper format for that criteria
         if request.form.get(crit) != None:
             criterias.append(
                 {
@@ -249,10 +253,14 @@ def index():
             )
 
     new_image = original_map.copy()
+
     query = {"criterias": criterias}
     sorted_dict = search_for_criterias(query)
+
     new_image = original_map.copy()
 
+    # Iterate through the list of sorted counties and color in
+    # the map according to its position in the sorted dict
     for enum, (key, value) in enumerate(sorted_dict.items()):
         new_image = floodfill(new_image, value["coordinates"], rgb(0, 210, enum))
 
