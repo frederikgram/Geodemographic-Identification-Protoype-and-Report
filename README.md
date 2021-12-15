@@ -1,7 +1,7 @@
 # Innovation Project
 
 ## About
-web-service based data analysis plan, showing and highligting Danish municipalities by comparing them using any permutation of the available metrics.
+web-service based data analysis platform, showing and highligting Danish municipalities by comparing them using any permutation of the available metrics.
 
 ## Prerequisites
 To run this service, it is necessary to have Python 3.8 or higher, and the pip package manager for Python 3 installed on your machine.
