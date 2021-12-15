@@ -62,7 +62,6 @@ $ set FLASK_APP=app.py
 ```
 $ export FLASK_APP=app.py
 ```
-
 From here the webservice can be started using:
 ```
 $ flask run
