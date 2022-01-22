@@ -1,6 +1,6 @@
 # Innovation Project
 
-📌: It is highly recommended to read the `innovation.pdf` file, as this contains a detailed description of both the problem and the prototype itself.
+📌: It is highly recommended to read the [innovation.pdf](https://github.com/frederikgram/Geodemographic-Identification-Protoype-and-Report/blob/master/innovation.pdf) file, as this contains a detailed description of both the problem and the prototype itself.
 
 ## About
 web-service based data analysis platform, showing and highligting Danish municipalities by comparing them using any permutation of the available metrics.
