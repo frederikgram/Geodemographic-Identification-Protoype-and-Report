@@ -4,7 +4,7 @@
 Say that a bussiness wanted to find the region which has the lowest population of elders, highest concentration of libertarian voters and greatest quantity of banks per square kilometer, this web-service ranks municipalicties by these properties using user-provided priorities for each metric, visualizing this as a heatmap of danish counties.
 
 
-📌 It is highly recommended to read the [innovation.pdf](https://github.com/frederikgram/Geodemographic-Identification-Protoype-and-Report/blob/master/innovation.pdf) file, as this contains a detailed description of both the problem and the prototype itself.
+📌 It is highly recommended to read the [innovation.pdf](https://github.com/frederikgram/Geodemographic-Identification-Protoype-and-Report/blob/master/innovation.pdf) file as this contains a detailed description of the prototype, business applicability, and potential monitization strategies. 
 
 
 <br>
