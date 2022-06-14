@@ -1,7 +1,7 @@
 # Geodemographic Identification
 <img align="right" src="https://github.com/frederikgram/Geodemographic_Identification/blob/master/example.jpg?raw=true)">
 
-### Data analysis platform allowing users to sort Danish municipalities by selecting a set of metrics from publically available data sources. 
+Data analysis platform allowing users to sort Danish municipalities by selecting a set of metrics from publically available data sources. 
 
 
 Say that a bussiness wanted to find the region which has the lowest population of elders, highest concentration of libertarian voters and greatest quantity of banks per square kilometer, this web-service ranks municipalicties by these properties using user-provided priorities for each metric, visualizing this as a heatmap of danish counties.
