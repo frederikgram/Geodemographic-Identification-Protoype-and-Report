@@ -52,7 +52,7 @@ To initialize the web-service, change directory into `webservice`
 $ cd webservice
 ```
 
-### Setup the FLASK environment
+Setup the FLASK environment
 
 - For Linux Machines
 
