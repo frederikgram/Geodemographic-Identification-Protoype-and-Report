@@ -1,4 +1,4 @@
-# Innovation Project
+# Geodemographic Identification
 <img align="right" src="https://github.com/frederikgram/Geodemographic_Identification/blob/master/example.jpg?raw=true)">
 
 ### Data analysis platform allowing users to sort Danish municipalities by selecting a set of metrics from publically available data sources. 
