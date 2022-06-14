@@ -41,7 +41,6 @@ $ env\Scripts\activate.bat
 ```
 
 Install dependencies
----
 
 ```
 $ pip3 install -r requirements.txt
@@ -53,16 +52,14 @@ To initialize the web-service, change directory into `webservice`
 $ cd webservice
 ```
 
+### Setup the FLASK environment
 
-#### Setup the FLASK environment
-
-##### For Linux Machines
+- For Linux Machines
 
 ```
 $ set FLASK_APP=app.py
 ```
-
-##### For Windows Machines
+- For Windows Machines
 
 ```
 $ export FLASK_APP=app.py
