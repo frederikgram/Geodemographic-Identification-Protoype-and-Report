@@ -13,36 +13,33 @@ Say that a bussiness wanted to find the region which has the lowest population o
 ## Prerequisites
 To run this service, it is necessary to have Python 3.8 or higher, and the pip package manager for Python 3 installed on your machine.
 ## Installation
-
-### Clone the repo
-
+Clone the repository
 ```
 $ git clone https://github.com/frederikgram/innovation.git
 $ cd innovation
 ```
 
-### Create a virtual environment
-
+Create a virtual environment
 
 ```
 $ python3 -m venv env
 ```
 
 ---
-### Activate the environment
-##### For Linux Machines
+Activate the environment
+- For Linux Machines
 
 ```
 $ source ./env/bin/activate
 ```
 
-##### For Windows Machines
+- For Windows Machines
 
 ```
 $ env\Scripts\activate.bat
 ```
 
-#### Install dependencies
+Install dependencies
 ---
 
 ```
