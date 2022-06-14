@@ -1,5 +1,5 @@
 # Innovation Project
-Web-service data analysis platform which shows and highlights Danish municipalities by comparing them using any permutation of selected available metrics.
+Webservice Data analysis platform which shows and highlights Danish municipalities by comparing them using any permutation of selected metrics.
 
 📌 It is highly recommended to read the [innovation.pdf](https://github.com/frederikgram/Geodemographic-Identification-Protoype-and-Report/blob/master/innovation.pdf) file, as this contains a detailed description of both the problem and the prototype itself.
 
