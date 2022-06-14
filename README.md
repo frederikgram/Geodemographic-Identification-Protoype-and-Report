@@ -25,7 +25,6 @@ Create a virtual environment
 $ python3 -m venv env
 ```
 
----
 Activate the environment
 - For Linux Machines
 
