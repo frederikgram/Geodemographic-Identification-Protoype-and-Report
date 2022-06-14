@@ -10,6 +10,7 @@ Say that a bussiness wanted to find the region which has the lowest population o
 
 
 <br>
+
 ## Prerequisites
 To run this service, it is necessary to have Python 3.8 or higher, and the pip package manager for Python 3 installed on your machine.
 ## Installation
